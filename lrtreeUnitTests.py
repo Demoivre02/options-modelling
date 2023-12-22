@@ -196,4 +196,4 @@ class TestLRTree(ConfirmingUnitTester):
 
 if __name__ == '__main__':
     unittest.main()
-    print "Unit Test Main"
+    print ("Unit Test Main")
